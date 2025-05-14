@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    height: 100vh;
+}
+
+h1 {
+    color: #333;
+}
+
+h3 {
+    font-size: x-large;
+}
+
+.counter-container {
+    background: white;
+    padding: 30px 50px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.counter-container h2 {
+    color: #007bff;
+}
+
+button {
+    font-size: x-large;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 1.3rem;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+
+/* calculator related css */
+.calculater-container {
+    background: #fff;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+
+}
+
+.calculater-container h2 {
+    color: #c40606;
+}
+
+.calculater-container div {
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+input {
+    height: 30px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
