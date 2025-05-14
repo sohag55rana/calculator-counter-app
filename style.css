@@ -68,3 +68,8 @@ input {
     border-radius: 10px;
     margin-right: 10px;
 }
+
+.calculater-container button:last-child {
+    background-color: crimson;
+    color: white;
+}
